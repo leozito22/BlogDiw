@@ -1,0 +1,12 @@
+.panel-footer {
+  float: right;
+}
+
+#btnAdicionarComentario {
+  margin-top: 10px;
+}
+
+#lixeira {
+  float: right;
+  height: 300%;
+}
